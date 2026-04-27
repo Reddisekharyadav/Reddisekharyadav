@@ -74,15 +74,14 @@
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&theme=github_dark&hide_border=true&show_icons=true" />
-  <img src="https://streak-stats.demolab.com?user=Reddisekharyadav&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Reddisekharyadav&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&theme=github-dark&hide_border=true&color=00ff00&line=00ff00&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&bg_color=ffffff&color=000000&line=2ecc71&point=2ecc71&hide_border=true" />
 </p>
 
 ---
