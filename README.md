@@ -73,15 +73,10 @@
 
 ---
 
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Reddisekharyadav&hide_border=true" />
-</p>
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&bg_color=ffffff&color=000000&line=2ecc71&point=2ecc71&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&bg_color=ffffff&color=2ea44f&line=2ea44f&point=216e39&area=true&hide_border=true" />
 </p>
 
 ---
