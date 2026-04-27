@@ -68,19 +68,21 @@
 → IEEE SCIS 2025 (Accepted)
 
 📌 **Speech Emotion Recognition using Hybrid CNN–BiLSTM with Attention Mechanism**  
-→ IEEE IATMSI 2026 (Accepted)
+→ IEEE IATMSI 2026 (Accepted)  
+🔗 [View Paper](https://ieeexplore.ieee.org/document/11466131)
 
 ---
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img src="https://streak-stats.demolab.com?user=Reddisekharyadav&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&theme=github_dark&hide_border=true&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=Reddisekharyadav&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&theme=github-dark&hide_border=true&color=00ff00&line=00ff00&point=ffffff" />
 </p>
 
 ---
