@@ -73,7 +73,10 @@
 
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Reddisekharyadav&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&theme=dark&hide_border=true&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Reddisekharyadav&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&theme=dark&hide_border=true&layout=compact)
 
 ---
 
