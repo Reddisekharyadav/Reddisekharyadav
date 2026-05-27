@@ -66,6 +66,7 @@
 
 📌 **Minimizing Return Rates in Online Fashion through Personalized Avatar-Based Fitting**  
 → IEEE SCIS 2025 (Accepted)
+🔗 [View Paper](https://link.springer.com/chapter/10.1007/978-3-032-22914-4_2#citeas)
 
 📌 **Speech Emotion Recognition using Hybrid CNN–BiLSTM with Attention Mechanism**  
 → IEEE IATMSI 2026 (Accepted)  
