@@ -15,12 +15,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Reddisekharyadav&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=Reddisekharyadav&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reddisekharyadav&theme=tokyonight" height="170" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Reddisekharyadav&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reddisekharyadav&theme=tokyonight" width="90%" alt="Profile Details">
 </p>
 
 ---
@@ -232,12 +232,16 @@ Autonomous agents for smarter building energy control.
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=38bdae&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reddisekharyadav&theme=tokyonight" width="90%" alt="Contribution Timeline">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" height="280" alt="Languages">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Reddisekharyadav&theme=tokyonight&hide_border=true&layout=compact" height="280" alt="Coding Activity">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reddisekharyadav&theme=tokyonight" height="200" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reddisekharyadav&theme=tokyonight" height="200" alt="Most Commit Language">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reddisekharyadav&theme=tokyonight" height="200" alt="Stats">
 </p>
 
 <p align="center">
