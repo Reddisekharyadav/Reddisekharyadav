@@ -33,12 +33,14 @@
 |---|---|---|---|
 | 1 | [Allo Reservations Inventory](https://github.com/Reddisekharyadav/Allo-reservations-inventory) | Inventory overselling under concurrent access | Next.js, TypeScript, Prisma, PostgreSQL |
 | 2 | [Rural Healthcare Chatbot](https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform) | Language & access barriers in rural healthcare | Python, NLP/LLMs, ML, Analytics |
-| 3 | [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses) | Hands-free scene understanding for visually impaired | React Native, BLE, FastAPI, CV |
-| 4 | [Meeseva Services](https://github.com/Reddisekharyadav/meesevaservices-Fullstack-Application) | Multi-branch service business management | Next.js, TypeScript, Azure SQL/Blob |
-| 5 | [Smart Parking System](https://github.com/Reddisekharyadav/Smart-Parking-Management-System-fullstack-application) | Drivers wasting time finding parking | MongoDB, Express, React, Node.js |
-| 6 | [Fire & Gas Detection](https://github.com/Reddisekharyadav/Fire-and-gas-detection-in-home-automation) | Delayed awareness of fire/gas leaks | C++, Sensors, Telegram API |
-| 7 | [Eco-Loop Building Control](https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control) | Buildings consuming energy inefficiently | Python, Autonomous Agents, IoT |
-| 8 | [LifeVault AI](https://github.com/Reddisekharyadav/LifeVault-AI-Your-Life.-Your-Memories.-Forever-) | Memories scattered across devices & formats | Kotlin, AI, Mobile |
+| 3 | [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy) | Manual developer activity tracking is tedious & unreliable | Python, FastAPI, SQLite, Win32 API |
+| 4 | [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses) | Hands-free scene understanding for visually impaired | React Native, BLE, FastAPI, CV |
+| 5 | [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System) | Detecting emotional cues in speech for real-time apps | Python, CNN/BiLSTM, Audio ML |
+| 6 | [Meeseva Services](https://github.com/Reddisekharyadav/meesevaservices-Fullstack-Application) | Multi-branch service business management | Next.js, TypeScript, Azure SQL/Blob |
+| 7 | [Smart Parking System](https://github.com/Reddisekharyadav/Smart-Parking-Management-System-fullstack-application) | Drivers wasting time finding parking | MongoDB, Express, React, Node.js |
+| 8 | [Fire & Gas Detection](https://github.com/Reddisekharyadav/Fire-and-gas-detection-in-home-automation) | Delayed awareness of fire/gas leaks | C++, Sensors, Telegram API |
+| 9 | [Eco-Loop Building Control](https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control) | Buildings consuming energy inefficiently | Python, Autonomous Agents, IoT |
+| 10 | [LifeVault AI](https://github.com/Reddisekharyadav/LifeVault-AI-Your-Life.-Your-Memories.-Forever-) | Memories scattered across devices & formats | Kotlin, AI, Mobile |
 
 <table>
 <tr>
@@ -62,10 +64,28 @@ Multilingual health assistant with disease prediction, analytics & government AP
 <tr>
 <td width="50%">
 
+### 🧠 [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy)
+Desktop activity tracker — auto-logs coding sessions, browser activity, screen captures → generates daily PDF reports & emails managers.
+<br>
+`Python` `FastAPI` `SQLite` `SQLAlchemy` `Win32 API`
+
+</td>
+<td width="50%">
+
 ### 👓 [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses)
 Voice commands → camera → scene description → spoken audio for the visually impaired.
 <br>
 `React Native` `BLE` `FastAPI` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎙️ [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System)
+Hybrid CNN-BiLSTM model for real-time emotion detection from audio. Published at IEEE IATMSI 2026.
+<br>
+`Python` `CNN/BiLSTM` `Attention` `Audio ML`
 
 </td>
 <td width="50%">
@@ -105,6 +125,7 @@ Autonomous agents for smarter building energy control.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy) | Desktop activity intelligence — auto-logs coding, browser, screenshots → daily reports | `Python` `FastAPI` `SQLite` `Win32 API` |
 | [AI Shopping E-Commerce](https://github.com/Reddisekharyadav/AI-Shopping-E-Commerce-Application) | 3D shopping with auth, cart & database-backed commerce | `Java` `Spring Boot` `MySQL` |
 | [AI Shopping](https://github.com/Reddisekharyadav/AI-Shopping) | Early AI commerce experiment | `HTML` `CSS` `JavaScript` |
 | [CampusConnect](https://github.com/Reddisekharyadav/CampusConnect-within-radius) | Privacy-first nearby campus discovery using radius | `TypeScript` `Web APIs` |
@@ -211,15 +232,18 @@ Autonomous agents for smarter building energy control.
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=38bdae&hide_border=true" alt="Contribution Graph">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" height="280" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Reddisekharyadav&theme=tokyonight&hide_border=true&layout=compact" height="280" alt="Coding Activity">
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Reddisekharyadav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos">
+  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/badge/Total%20Repos-42+-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repos"></a>
+  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/badge/Contributions-344+-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd" alt="Contributions"></a>
+  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/badge/IEEE%20Papers-2-1a1b27?style=for-the-badge&logo=ieee&logoColor=00629B" alt="Publications"></a>
 </p>
 
 ---
