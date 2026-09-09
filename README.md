@@ -241,7 +241,6 @@ Autonomous agents for smarter building energy control.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reddisekharyadav&theme=tokyonight&utcOffset=5.5" height="200" alt="Productive Time">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reddisekharyadav&theme=tokyonight" height="200" alt="Stats">
 </p>
 
