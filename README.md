@@ -264,11 +264,7 @@ Sensor detection → video evidence → Telegram notification.
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reddisekharyadav/Reddisekharyadav/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reddisekharyadav/Reddisekharyadav/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Reddisekharyadav/Reddisekharyadav/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Reddisekharyadav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos">
 </p>
 
 ---
