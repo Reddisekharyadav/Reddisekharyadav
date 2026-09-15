@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:7c3aed&height=220&section=header&text=Marugani%20Reddi%20Sekhar&fontSize=42&fontColor=ffffff&fontA[...]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:7c3aed&height=220&section=header&text=Marugani%20Reddi%20Sekhar&fontSize=42&fontColor=ffffff&fo[...]
 
 <div align="center">
 
@@ -261,7 +261,8 @@ Autonomous agents for smarter building energy control.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Reddisekharyadav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+<!-- Replaced komarev profile views (unreliable) with followers badge from shields.io -->
+<img src="https://img.shields.io/github/followers/Reddisekharyadav?label=Followers&style=flat&color=0e75b6" alt="Followers">
 
 <br>
 
