@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:7c3aed&height=220&section=header&text=Marugani%20Reddi%20Sekhar&fontSize=42&fontColor=ffffff&fo[...]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:7c3aed&height=220&section=header&text=Marugani%20Reddi%20Sekhar&fontSize=42&fontColor=ffffff&fontAlign=middle&fontFamily=monospace" alt="Header banner" />
 
 <div align="center">
 
@@ -8,46 +8,42 @@
 
 <br>
 
-<!-- Replaced the Heroku-hosted typing animation which is often offline with a reliable shields.io badge -->
-<img src="https://img.shields.io/badge/Building%20for%20people-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Building for people">
+<img src="https://img.shields.io/badge/Building%20for%20people-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Build for people">
 
 </div>
 
 ---
 
 <p align="center">
-  <!-- Replaced rate-limited third-party cards with github-readme-stats (Vercel) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&theme=tokyonight" height="170" alt="Top Languages">
 </p>
-
-<!-- Removed the profile-details card (was using github-profile-summary-cards.vercel.app which may be rate-limited) -->
 
 ---
 
 ## 🔥 Featured Projects — Real-World Problem Solvers
 
-> These projects target **concrete, real-world problems** — not demos or tutorials.
+> These projects focus on real engineering problems, not toy demos.
 
 | # | Project | Problem it solves | Stack |
 |---|---|---|---|
 | 1 | [Allo Reservations Inventory](https://github.com/Reddisekharyadav/Allo-reservations-inventory) | Inventory overselling under concurrent access | Next.js, TypeScript, Prisma, PostgreSQL |
-| 2 | [Rural Healthcare Chatbot](https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform) | Language & access barriers in rural healthcare | Python, NLP/LLMs, ML, Analyt[...]
-| 3 | [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy) | Manual developer activity tracking is tedious & unreliable | Python, FastAPI, SQLite, Win32 API |
-| 4 | [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses) | Hands-free scene understanding for visually impaired | React Native, BLE, FastAPI, CV |
-| 5 | [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System) | Detecting emotional cues in speech for real-time apps | Python, CNN/BiLSTM,[...]
-| 6 | [Meeseva Services](https://github.com/Reddisekharyadav/meesevaservices-Fullstack-Application) | Multi-branch service business management | Next.js, TypeScript, Azure SQL/Blob |
+| 2 | [Rural Healthcare Chatbot](https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform) | Language and access barriers in rural healthcare | Python, NLP/LLMs, ML, Analytics |
+| 3 | [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy) | Manual developer activity tracking is tedious and unreliable | Python, FastAPI, SQLite, Win32 API |
+| 4 | [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses) | Hands-free scene understanding for visually impaired users | React Native, BLE, FastAPI, Computer Vision |
+| 5 | [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System) | Detecting emotional cues from speech in real-time systems | Python, CNN/BiLSTM, Attention, Audio ML |
+| 6 | [Meeseva Services](https://github.com/Reddisekharyadav/meesevaservices-Fullstack-Application) | Multi-branch service business management | Next.js, TypeScript, Azure SQL, Azure Blob |
 | 7 | [Smart Parking System](https://github.com/Reddisekharyadav/Smart-Parking-Management-System-fullstack-application) | Drivers wasting time finding parking | MongoDB, Express, React, Node.js |
-| 8 | [Fire & Gas Detection](https://github.com/Reddisekharyadav/Fire-and-gas-detection-in-home-automation) | Delayed awareness of fire/gas leaks | C++, Sensors, Telegram API |
-| 9 | [Eco-Loop Building Control](https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control) | Buildings consuming energy inefficiently | Python, Autonomous Ag[...]
-| 10 | [LifeVault AI](https://github.com/Reddisekharyadav/LifeVault-AI-Your-Life.-Your-Memories.-Forever-) | Memories scattered across devices & formats | Kotlin, AI, Mobile |
+| 8 | [Fire & Gas Detection](https://github.com/Reddisekharyadav/Fire-and-gas-detection-in-home-automation) | Delayed awareness of fire and gas leaks | C++, Sensors, Telegram API |
+| 9 | [Eco-Loop Building Control](https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control) | Buildings consuming energy inefficiently | Python, Autonomous Agents, Optimization, IoT |
+| 10 | [LifeVault AI](https://github.com/Reddisekharyadav/LifeVault-AI-Your-Life.-Your-Memories.-Forever-) | Memories scattered across devices and formats | Kotlin, AI, Mobile |
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🏗️ [Allo Reservations Inventory](https://github.com/Reddisekharyadav/Allo-reservations-inventory)
-Concurrency-safe multi-warehouse reservation system with atomic holds, row-level locking & auto-release.
+Concurrency-safe multi-warehouse reservation system with atomic holds, row-level locking, and auto-release.
 <br>
 `Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
@@ -55,7 +51,7 @@ Concurrency-safe multi-warehouse reservation system with atomic holds, row-level
 <td width="50%">
 
 ### 🏥 [Rural Healthcare Chatbot](https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform)
-Multilingual health assistant with disease prediction, analytics & government API integration.
+Multilingual health assistant with disease prediction, analytics, and government API integration.
 <br>
 `Python` `NLP/LLMs` `ML` `Analytics`
 
@@ -65,7 +61,7 @@ Multilingual health assistant with disease prediction, analytics & government AP
 <td width="50%">
 
 ### 🧠 [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy)
-Desktop activity tracker — auto-logs coding sessions, browser activity, screen captures → generates daily PDF reports & emails managers.
+Desktop activity tracker that auto-logs coding sessions, browser activity, and screenshots to generate daily PDF reports and manager emails.
 <br>
 `Python` `FastAPI` `SQLite` `SQLAlchemy` `Win32 API`
 
@@ -73,7 +69,7 @@ Desktop activity tracker — auto-logs coding sessions, browser activity, screen
 <td width="50%">
 
 ### 👓 [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses)
-Voice commands → camera → scene description → spoken audio for the visually impaired.
+Voice commands → camera → scene description → spoken audio for visually impaired users.
 <br>
 `React Native` `BLE` `FastAPI` `Computer Vision`
 
@@ -91,7 +87,7 @@ Hybrid CNN-BiLSTM model for real-time emotion detection from audio. Published at
 <td width="50%">
 
 ### 🏬 [Meeseva Services](https://github.com/Reddisekharyadav/meesevaservices-Fullstack-Application)
-Production multi-branch service platform with cloud storage & secure APIs.
+Production multi-branch service platform with cloud storage and secure APIs.
 <br>
 `Next.js` `TypeScript` `Azure SQL` `Azure Blob`
 
@@ -101,7 +97,7 @@ Production multi-branch service platform with cloud storage & secure APIs.
 <td width="50%">
 
 ### 🅿️ [Smart Parking System](https://github.com/Reddisekharyadav/Smart-Parking-Management-System-fullstack-application)
-Location-aware parking — booking, payments, real-time slots & maps.
+Location-aware parking with booking, payments, real-time slot availability, and maps.
 <br>
 `MongoDB` `Express` `React` `Node.js`
 
@@ -121,54 +117,48 @@ Autonomous agents for smarter building energy control.
 
 ## 💻 Software Stack Projects
 
-> Full-stack web apps, backend systems & product engineering.
-
 | Project | What it does | Stack |
 |---|---|---|
-| [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy) | Desktop activity intelligence — auto-logs coding, browser, screenshots → daily reports | `Python` `FastAPI` `SQLite` `Win[...]
-| [AI Shopping E-Commerce](https://github.com/Reddisekharyadav/AI-Shopping-E-Commerce-Application) | 3D shopping with auth, cart & database-backed commerce | `Java` `Spring Boot` `MySQL` |
+| [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy) | Desktop activity intelligence — auto-logs coding, browser, screenshots → daily reports | `Python` `FastAPI` `SQLite` `Win32 API` |
+| [AI Shopping E-Commerce](https://github.com/Reddisekharyadav/AI-Shopping-E-Commerce-Application) | 3D shopping with auth, cart and database-backed commerce | `Java` `Spring Boot` `MySQL` |
 | [AI Shopping](https://github.com/Reddisekharyadav/AI-Shopping) | Early AI commerce experiment | `HTML` `CSS` `JavaScript` |
 | [CampusConnect](https://github.com/Reddisekharyadav/CampusConnect-within-radius) | Privacy-first nearby campus discovery using radius | `TypeScript` `Web APIs` |
-| [HR Workflow Designer](https://github.com/Reddisekharyadav/HR-Workflow-Designer-Module-peototype) | Visual onboarding & approval workflow builder | `TypeScript` |
+| [HR Workflow Designer](https://github.com/Reddisekharyadav/HR-Workflow-Designer-Module-peototype) | Visual onboarding and approval workflow builder | `TypeScript` |
 | [Prayana Electric](https://github.com/Reddisekharyadav/Prayanaelectric-website) | Electric mobility product website | `TypeScript` |
-| [Rural Connectivity](https://github.com/Reddisekharyadav/Rural-connectivity) | Resource & service exchange for rural stakeholders | `TypeScript` |
+| [Rural Connectivity](https://github.com/Reddisekharyadav/Rural-connectivity) | Resource and service exchange for rural stakeholders | `TypeScript` |
 | [StoryVault AI](https://github.com/Reddisekharyadav/StoryVault-AI) | Capture ideas and build story worlds | `TypeScript` |
 | [MANACUSTOMCHOCO](https://github.com/Reddisekharyadav/MANACUSTOMCHOCO) | Custom chocolate catalog experience | `TypeScript` |
 | [Hotel Management](https://github.com/Reddisekharyadav/Hotel-management) | Streamlined hotel operations system | `HTML` `CSS` `JavaScript` |
 | [Park Plaza](https://github.com/Reddisekharyadav/park-plaza) | Parking product prototype | `HTML` `CSS` `JavaScript` |
 | [MyPortfolio3d](https://github.com/Reddisekharyadav/MyPortfolio3d) | Interactive 3D developer portfolio | `React` `Three.js` |
-| [Troubleshooters Compressor](https://github.com/Reddisekharyadav/Troubleshooters-Compresser-) | Compress images, videos & documents | `HTML` `CSS` `JavaScript` |
+| [Troubleshooters Compressor](https://github.com/Reddisekharyadav/Troubleshooters-Compresser-) | Compress images, videos and documents | `HTML` `CSS` `JavaScript` |
 
 ---
 
 ## 🤖 AI / ML Stack Projects
 
-> Machine learning, deep learning, computer vision & NLP.
-
 | Project | What it does | Stack |
 |---|---|---|
-| [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System) | Real-time emotion detection from audio — hybrid CNN-BiLSTM | `Python` `CNN/B[...]
+| [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System) | Real-time emotion detection from audio — hybrid CNN-BiLSTM | `Python` `CNN/BiLSTM` |
 | [Sea Creature Classification](https://github.com/Reddisekharyadav/Sea-Creature-Classification) | Marine life classifier with explainable AI (LIME) | `Python` `Deep Learning` `LIME` |
 | [Animal Detection](https://github.com/Reddisekharyadav/Animal-detection-system-using-deep-learning) | Wildlife monitoring via smart surveillance | `CNNs` `Computer Vision` |
-| [Wearable Stress Detection](https://github.com/Reddisekharyadav/AI-powered-wearable-stress-and-fear-detection-system) | Infer stress/fear signals from wearable data | `Python` `ML` `Sensor Data[...]
+| [Wearable Stress Detection](https://github.com/Reddisekharyadav/AI-powered-wearable-stress-and-fear-detection-system) | Infer stress and fear signals from wearable data | `Python` `ML` `Sensor Data` |
 | [Personalized Avatar Fitting](https://github.com/Reddisekharyadav/Personalized-Avatar-Fitting) | 3D virtual try-on to reduce fashion returns | `JavaScript` `3D/Avatar` |
 | [GitHub Repo Intelligence](https://github.com/Reddisekharyadav/Github-repo-intelligence-doc-generator) | Auto-generate architecture docs from any repo | `Python` `Hugging Face` |
 | [My AI Assistant](https://github.com/Reddisekharyadav/My-AI-Assistant) | Voice-driven information assistant | `Python` `GPT` |
-| [LifeVault AI](https://github.com/Reddisekharyadav/LifeVault-AI-Your-Life.-Your-Memories.-Forever-) | Privacy-first memory system with AI insights & mood tracking | `Kotlin` `AI` `Mobile` |
+| [LifeVault AI](https://github.com/Reddisekharyadav/LifeVault-AI-Your-Life.-Your-Memories.-Forever-) | Privacy-first memory system with AI insights and mood tracking | `Kotlin` `AI` `Mobile` |
 
 ---
 
 ## 🔌 Hardware / IoT / Embedded Stack Projects
 
-> Physical computing, sensors, wearables & connected devices.
-
 | Project | What it does | Stack |
 |---|---|---|
-| [Fire & Gas Detection](https://github.com/Reddisekharyadav/Fire-and-gas-detection-in-home-automation) | Home safety — sensor detection + video + Telegram alerts | `C++` `Sensors` `Telegram AP[...]
-| [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses) | Assistive scene understanding via BLE glasses + mobile | `React Native` `BLE` `FastAPI` `CV` |
+| [Fire & Gas Detection](https://github.com/Reddisekharyadav/Fire-and-gas-detection-in-home-automation) | Home safety — sensor detection + video + Telegram alerts | `C++` `Sensors` `Telegram API` |
+| [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses) | Assistive scene understanding via BLE glasses and mobile | `React Native` `BLE` `FastAPI` `CV` |
 | [Wristband Health Monitor](https://github.com/Reddisekharyadav/wristband-iot-health-monitor) | Wearable IoT health sensing device | `C++` `Embedded/IoT` |
 | [Electric Bike](https://github.com/Reddisekharyadav/electricbike) | Electric mobility prototype with web interface | `TypeScript` `IoT` |
-| [Eco-Loop Building Control](https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control) | Autonomous agents for smart building energy control | `Python` `Opt[...]
+| [Eco-Loop Building Control](https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control) | Autonomous agents for smart building energy control | `Python` `Optimization` `IoT` |
 
 ---
 
@@ -181,7 +171,7 @@ Autonomous agents for smarter building energy control.
 
 **Personalized Avatar-Based Fitting for Online Fashion**
 <br>IEEE SCIS 2025 / Springer — 3D digital-twin virtual try-on to reduce returns from sizing uncertainty.
-<br><a href="https://link.springer.com/chapter/10.1007/978-3-032-22914-4_2"><img src="https://img.shields.io/badge/Read_Paper-Springer-blue?style=flat-square&logo=springer&logoColor=white" alt="S[...]
+<br><a href="https://link.springer.com/chapter/10.1007/978-3-032-22914-4_2"><img src="https://img.shields.io/badge/Read_Paper-Springer-blue?style=flat-square&logo=springer&logoColor=white" alt="Springer"></a>
 
 </td>
 </tr>
@@ -232,22 +222,16 @@ Autonomous agents for smarter building energy control.
 ## 📊 Contribution Activity
 
 <p align="center">
-  <!-- Use the same github-readme-stats images for contribution overview -->
   <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&theme=tokyonight" width="90%" alt="Contribution & Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&theme=tokyonight" height="200" alt="Repos per Language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&theme=tokyonight" height="200" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&theme=tokyonight" height="200" alt="Stats">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/badge/Total%20Repos-42+-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repos"></a>
-  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/badge/Contributions-344+-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd" alt="Contributions"></a>
-  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/badge/IEEE%20Papers-2-1a1b27?style=for-the-badge&logo=ieee&logoColor=00629B" alt="Publications"></a>
+  <img src="https://img.shields.io/github/stars/Reddisekharyadav?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/Reddisekharyadav?style=social" alt="GitHub followers" />
 </p>
 
 ---
@@ -260,11 +244,6 @@ Autonomous agents for smarter building energy control.
 <a href="mailto:reddisekharmarugani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
-
-<!-- Replaced komarev profile views (unreliable) with followers badge from shields.io -->
-<img src="https://img.shields.io/github/followers/Reddisekharyadav?label=Followers&style=flat&color=0e75b6" alt="Followers">
-
-<br>
 
 **Build for people. Ship working software. Improve every iteration.**
 
