@@ -29,31 +29,44 @@ I am **Marugani Reddi Sekhar**, a software developer and technology builder who 
 
 ---
 
-## 📈 GitHub at a Glance
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=00C7B7&icon_color=00C7B7&text_color=9fadc6" height="180" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C7B7&text_color=9fadc6" height="180" alt="Top languages">
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Reddisekharyadav&hide_border=true&background=00000000&ring=00C7B7&fire=ff9f43&currStreakLabel=00C7B7&sideLabels=9fadc6&dates=9fadc6&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak">
+<a href="https://github.com/Reddisekharyadav?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub statistics" width="490">
+</a>
+
+<a href="https://github.com/Reddisekharyadav?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" width="360">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Reddisekharyadav?tab=overview">
+<img src="https://streak-stats.demolab.com/?user=Reddisekharyadav&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub contribution streak" width="850">
+</a>
+
 </div>
 
 ### 🗓️ Contribution History
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&bg_color=00000000&color=9fadc6&line=00C7B7&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub contribution activity graph">
+
+<a href="https://github.com/Reddisekharyadav?tab=overview">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20History" alt="GitHub contribution activity graph" width="950">
+</a>
+
 </div>
 
 <p align="center">
-  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://img.shields.io/github/repos/Reddisekharyadav?style=flat-square&logo=github&label=Public%20repositories&color=1a1b27" alt="Public repositories"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=followers"><img src="https://img.shields.io/github/followers/Reddisekharyadav?style=flat-square&logo=github&label=Followers&color=1a1b27" alt="Followers"></a>
-  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/github/commit-activity/y/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=git&label=Profile%20commits%20this%20year&color=1a1b27" alt="Profile commits this year"></a>
-  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/github/last-commit/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=github&label=Profile%20updated&color=1a1b27" alt="Profile last updated"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://img.shields.io/github/repos/Reddisekharyadav?style=flat-square&logo=github&logoColor=white&label=Public%20repositories&color=1a1b27" alt="Public repositories"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=followers"><img src="https://img.shields.io/github/followers/Reddisekharyadav?style=flat-square&logo=github&logoColor=white&label=Followers&color=1a1b27" alt="Followers"></a>
+  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/github/commit-activity/y/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=git&logoColor=white&label=Profile%20commits%20this%20year&color=1a1b27" alt="Profile commits this year"></a>
+  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/github/last-commit/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=github&logoColor=white&label=Profile%20updated&color=1a1b27" alt="Profile last updated"></a>
 </p>
 
-> The charts above summarize public GitHub activity, languages, contribution streaks, and recent commit history. Click any chart to explore the underlying repositories and contributions.
+> **Tip:** If a chart provider is temporarily unavailable, click the chart title to view the live statistics directly on GitHub.
 
 ---
 
@@ -66,7 +79,7 @@ I am **Marugani Reddi Sekhar**, a software developer and technology builder who 
 | [WorkSense AI](https://github.com/Reddisekharyadav/company-dairy) | Automates developer activity tracking and daily reports | Python, FastAPI, SQLite |
 | [AI Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses) | Provides hands-free scene understanding for visually impaired users | React Native, BLE, FastAPI, CV |
 | [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System) | Detects emotional cues in speech | Python, CNN/BiLSTM, Attention |
-| [Meeseva Services](https://github.com/Reddisekharyadav/meesevaservices-Fullstack-Application) | Manages multi-branch service businesses | Next.js, TypeScript, Azure SQL |
+| [Meeseva Services](https://github.com/Reddisekharyadav/meesevas-Fullstack-Application) | Manages multi-branch service businesses | Next.js, TypeScript, Azure SQL |
 | [Smart Parking System](https://github.com/Reddisekharyadav/Smart-Parking-Management-System-fullstack-application) | Supports parking discovery, booking, and payments | MongoDB, Express, React, Node.js |
 | [Fire & Gas Detection](https://github.com/Reddisekharyadav/Fire-and-gas-detection-in-home-automation) | Sends alerts for home fire and gas leaks | C++, Sensors, Telegram API |
 | [Eco-Loop Building Control](https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control) | Optimizes building energy control | Python, Agents, Optimization, IoT |
