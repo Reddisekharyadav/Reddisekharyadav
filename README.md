@@ -27,7 +27,7 @@ I am **Marugani Reddi Sekhar**, a software developer and technology builder focu
 ---
 
 ## ⭐ Featured Projects
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/Reddisekharyadav/Allo-reservations-inventory">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Allo-reservations-inventory%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Allo Reservations Inventory">
@@ -43,7 +43,11 @@ I am **Marugani Reddi Sekhar**, a software developer and technology builder focu
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Enhanced-Speech-Emotion-Recognition-SER-System%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Speech Emotion Recognition">
 </a>
 
-</div>
+</div> -->
+- [Allo Reservations Inventory](https://github.com/Reddisekharyadav/Allo-reservations-inventory)
+- [Rural Healthcare Multilingual Chatbot](https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform)
+- [AI-powered Smart Glasses](https://github.com/Reddisekharyadav/AI-powered-smart-glasses)
+- [Speech Emotion Recognition](https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System)
 
 | Project | Purpose | Technologies |
 |---|---|---|
