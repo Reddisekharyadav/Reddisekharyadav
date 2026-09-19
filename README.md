@@ -1,12 +1,14 @@
 <div align="center">
 
-# Marugani Reddi Sekhar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:1a1b27&height=180&section=header&text=Marugani%20Reddi%20Sekhar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20IoT%20Innovator&descAlignY=61&descSize=18" alt="Marugani Reddi Sekhar banner">
 
 <a href="https://myportfolio.sekhar.tech/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/marugani-reddi-sekhar-83644b253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:reddisekharmarugani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-**Build for people. Ship working software. Improve every iteration.**
+### I turn ambitious ideas into useful, reliable software.
+
+**Full-stack development · Artificial intelligence · Computer vision · IoT · Embedded systems**
 
 </div>
 
@@ -14,25 +16,44 @@
 
 ## 👋 About Me
 
-I build practical software across full-stack development, AI/ML, computer vision, IoT, and embedded systems. My projects focus on solving real-world problems with reliable, maintainable technology.
+I am **Marugani Reddi Sekhar**, a software developer and technology builder who enjoys working across the entire product journey—from an early idea and system design to a polished, deployable experience.
+
+- 🚀 Building practical products with **Next.js, TypeScript, Python, FastAPI, Java, and Spring Boot**
+- 🤖 Exploring **AI/ML, NLP, computer vision, explainable AI, and intelligent agents**
+- 🔌 Prototyping connected experiences with **IoT, sensors, Arduino, Raspberry Pi, and embedded C++**
+- 🧠 Interested in software that improves **accessibility, healthcare, education, mobility, and everyday work**
+- 📚 Published researcher in **avatar-based fashion fitting** and **speech emotion recognition**
+- 🌱 Always learning, shipping, and improving through real-world projects
+
+> **Build for people. Ship working software. Improve every iteration.**
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub at a Glance
 
-> These badges use Shields.io and GitHub’s public endpoints instead of rate-limited card-rendering services, so they remain free and load reliably.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=00C7B7&icon_color=00C7B7&text_color=9fadc6" height="180" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C7B7&text_color=9fadc6" height="180" alt="Top languages">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Reddisekharyadav&hide_border=true&background=00000000&ring=00C7B7&fire=ff9f43&currStreakLabel=00C7B7&sideLabels=9fadc6&dates=9fadc6&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak">
+</div>
+
+### 🗓️ Contribution History
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reddisekharyadav&bg_color=00000000&color=9fadc6&line=00C7B7&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub contribution activity graph">
+</div>
 
 <p align="center">
-  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://img.shields.io/github/repos/Reddisekharyadav?style=for-the-badge&logo=github&label=Public%20Repositories&color=1a1b27" alt="Public repositories"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=followers"><img src="https://img.shields.io/github/followers/Reddisekharyadav?style=for-the-badge&logo=github&label=Followers&color=1a1b27" alt="GitHub followers"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=stars"><img src="https://img.shields.io/github/stars/Reddisekharyadav?style=for-the-badge&logo=github&label=Stars&color=1a1b27" alt="GitHub stars"></a>
-  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/github/commit-activity/y/Reddisekharyadav/Reddisekharyadav?style=for-the-badge&logo=git&label=Commits%20this%20year&color=1a1b27" alt="Commits this year"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://img.shields.io/github/repos/Reddisekharyadav?style=flat-square&logo=github&label=Public%20repositories&color=1a1b27" alt="Public repositories"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=followers"><img src="https://img.shields.io/github/followers/Reddisekharyadav?style=flat-square&logo=github&label=Followers&color=1a1b27" alt="Followers"></a>
+  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/github/commit-activity/y/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=git&label=Profile%20commits%20this%20year&color=1a1b27" alt="Profile commits this year"></a>
+  <a href="https://github.com/Reddisekharyadav"><img src="https://img.shields.io/github/last-commit/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=github&label=Profile%20updated&color=1a1b27" alt="Profile last updated"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Reddisekharyadav/Reddisekharyadav?style=for-the-badge&logo=github&label=Top%20Language&color=00C7B7" alt="Top language">
-  <img src="https://img.shields.io/github/last-commit/Reddisekharyadav/Reddisekharyadav?style=for-the-badge&logo=github&label=Last%20Updated&color=00C7B7" alt="Last commit">
-</p>
+> The charts above summarize public GitHub activity, languages, contribution streaks, and recent commit history. Click any chart to explore the underlying repositories and contributions.
 
 ---
 
@@ -108,6 +129,6 @@ I build practical software across full-stack development, AI/ML, computer vision
 
 <br><br>
 
-**Build for people. Ship working software. Improve every iteration.**
+**Thanks for visiting — let’s build something meaningful.**
 
 </div>
