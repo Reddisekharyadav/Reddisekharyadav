@@ -27,14 +27,21 @@ I am **Marugani Reddi Sekhar**, a software developer and technology builder focu
 ---
 
 ## ⭐ Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/Reddisekharyadav/Allo-reservations-inventory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav&repo=Allo-reservations-inventory&theme=tokyonight&hide_border=true" alt="Allo Reservations Inventory"></a>
-<a href="https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav&repo=Rural-Healthcare-Multilingual-Chatbot-Platform&theme=tokyonight&hide_border=true" alt="Rural Healthcare Chatbot"></a>
+<a href="https://github.com/Reddisekharyadav/Allo-reservations-inventory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Allo-reservations-inventory%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Allo Reservations Inventory">
+</a>
+<a href="https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Rural-Healthcare-Multilingual-Chatbot-Platform%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Rural Healthcare Chatbot">
+</a>
 
-<a href="https://github.com/Reddisekharyadav/AI-powered-smart-glasses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav&repo=AI-powered-smart-glasses&theme=tokyonight&hide_border=true" alt="AI Smart Glasses"></a>
-<a href="https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav&repo=Enhanced-Speech-Emotion-Recognition-SER-System&theme=tokyonight&hide_border=true" alt="Speech Emotion Recognition"></a>
+<a href="https://github.com/Reddisekharyadav/AI-powered-smart-glasses">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=AI-powered-smart-glasses%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="AI Smart Glasses">
+</a>
+<a href="https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Enhanced-Speech-Emotion-Recognition-SER-System%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Speech Emotion Recognition">
+</a>
 
 </div>
 
