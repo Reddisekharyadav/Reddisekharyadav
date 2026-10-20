@@ -1,12 +1,19 @@
 <div align="center">
 
+<a href="https://myportfolio.sekhar.tech/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=1000&color=00C7B7&background=0D111700&center=true&vCenter=true&width=880&height=50&lines=MARUGANI+REDDI+SEKHAR;FULL-STACK+DEVELOPER+%C2%B7+AI%2FML+BUILDER;COMPUTER+VISION+%C2%B7+IOT+INNOVATOR;PUBLISHED+IEEE+%26+SPRINGER+RESEARCHER" alt="Marugani Reddi Sekhar" />
+</a>
+
 # Marugani Reddi Sekhar
 
 **Full-Stack Developer · AI/ML Builder · Computer Vision Enthusiast · IoT Innovator**
 
-<a href="https://myportfolio.sekhar.tech/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/marugani-reddi-sekhar-83644b253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:reddisekharmarugani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  <a href="https://myportfolio.sekhar.tech/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://mangomrs.me"><img src="https://img.shields.io/badge/Live_Work-111827?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" alt="mangomrs.me"></a>
+  <a href="https://linkedin.com/in/marugani-reddi-sekhar-83644b253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:reddisekharmarugani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 > **Build for people. Ship working software. Improve every iteration.**
 
@@ -16,34 +23,143 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 I am **Marugani Reddi Sekhar**, a software developer and technology builder focused on turning practical ideas into useful products. I work across the full product journey—from system design and development to deployment and continuous improvement.
 
 - 🚀 Full-stack development with **Next.js, TypeScript, Python, FastAPI, Java, and Spring Boot**
 - 🤖 AI/ML research and applications in **NLP, computer vision, explainable AI, and intelligent agents**
 - 🔌 Connected systems using **IoT, sensors, Arduino, Raspberry Pi, and embedded C++**
 - 🧠 Building for **healthcare, accessibility, education, mobility, productivity, and sustainability**
-- 📚 Published researcher in **avatar-based fashion fitting** and **speech emotion recognition**
+- 📚 Published researcher in **avatar-based fashion fitting** ([Springer](https://link.springer.com/chapter/10.1007/978-3-032-22914-4_2)) and **speech emotion recognition** ([IEEE Xplore](https://ieeexplore.ieee.org/document/11466131))
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-42+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=followers"><img src="https://img.shields.io/github/followers/Reddisekharyadav?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=stars"><img src="https://img.shields.io/github/stars/Reddisekharyadav?style=for-the-badge&logo=github&label=Stars&color=181717" alt="Stars"></a>
+</p>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="./portrait-dots.webp" width="260" alt="Marugani Reddi Sekhar Dot-Matrix Portrait" />
+<br/>
+<sub><code>[SYS_ID: MRS-2026 // ONLINE]</code></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Publications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📄 Speech Emotion Recognition Using Hybrid CNN-BiLSTM with Attention</b><br/>
+      <sub><i>IEEE IATMSI 2026</i> — Deep learning architecture combining spatial spectrogram features with temporal bidirectional sequence modeling and attention mechanisms.</sub><br/><br/>
+      <a href="https://ieeexplore.ieee.org/document/11466131"><img src="https://img.shields.io/badge/IEEE_Xplore-Read_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Read IEEE Paper"></a>
+    </td>
+    <td width="50%" valign="top">
+      <b>📄 Personalized Avatar-Based Fitting for Online Fashion</b><br/>
+      <sub><i>IEEE SCIS 2025 / Springer LNCS</i> — 3D digital-twin virtual try-on pipeline designed to improve sizing accuracy and reduce e-commerce return rates.</sub><br/><br/>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-032-22914-4_2"><img src="https://img.shields.io/badge/Springer_LNCS-Read_Paper-00C7B7?style=for-the-badge&logo=springer&logoColor=black" alt="Read Springer Paper"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⭐ Featured Projects
-<!-- <div align="center">
 
-<a href="https://github.com/Reddisekharyadav/Allo-reservations-inventory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Allo-reservations-inventory%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Allo Reservations Inventory">
-</a>
-<a href="https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Rural-Healthcare-Multilingual-Chatbot-Platform%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Rural Healthcare Chatbot">
-</a>
-
-<a href="https://github.com/Reddisekharyadav/AI-powered-smart-glasses">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=AI-powered-smart-glasses%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="AI Smart Glasses">
-</a>
-<a href="https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reddisekharyadav%26repo=Enhanced-Speech-Emotion-Recognition-SER-System%26theme=tokyonight%26hide_border=true%26show_owner=true" alt="Speech Emotion Recognition">
-</a>
-
-</div> -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01. <a href="https://github.com/Reddisekharyadav/Allo-reservations-inventory">Allo Reservations Inventory ↗</a></h3>
+      <p>Prevents overselling under high concurrency with atomic holds, PostgreSQL row-level locking, and automated expiry release.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02. <a href="https://github.com/Reddisekharyadav/Rural-Healthcare-Multilingual-Chatbot-Platform">Rural Healthcare Platform ↗</a></h3>
+      <p>Multilingual voice/text chatbot, health analytics, and ML disease prediction designed for accessible rural healthcare triage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/NLP-00C7B7?style=flat-square&logo=openai&logoColor=black" alt="NLP">
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03. <a href="https://github.com/Reddisekharyadav/AI-powered-smart-glasses">AI Smart Glasses ↗</a></h3>
+      <p>Hands-free real-time scene understanding and audio description pipeline for visually impaired users over BLE.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+        <img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04. <a href="https://github.com/Reddisekharyadav/Enhanced-Speech-Emotion-Recognition-SER-System">Speech Emotion Recognition ↗</a></h3>
+      <p>Real-time and file-based vocal emotion classification with hybrid deep learning. Published at IEEE IATMSI 2026.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/CNN--BiLSTM-00C7B7?style=flat-square" alt="CNN-BiLSTM">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05. <a href="https://github.com/Reddisekharyadav/company-dairy">WorkSense AI ↗</a></h3>
+      <p>Privacy-first local developer activity tracking, automated session logging, and executive report generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06. <a href="https://github.com/Reddisekharyadav/LifeVault-AI-Your-Life.-Your-Memories.-Forever-">LifeVault AI ↗</a></h3>
+      <p>Privacy-first AI memory and life-insight platform with multimodal capture and mood analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android">
+        <img src="https://img.shields.io/badge/AI-00C7B7?style=flat-square" alt="AI">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>07. <a href="https://github.com/Reddisekharyadav/Eco-Loop-Building-Agents-Autonomous-Smart-Building-Control">Eco-Loop Building Control ↗</a></h3>
+      <p>Multi-agent autonomous energy optimization and environmental control for smart buildings.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Autonomous_Agents-111827?style=flat-square" alt="Agents">
+        <img src="https://img.shields.io/badge/IoT-00C7B7?style=flat-square" alt="IoT">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>08. <a href="https://github.com/Reddisekharyadav/Github-repo-intelligence-doc-generator">GitHub Repo Intelligence ↗</a></h3>
+      <p>AI-powered repository architecture analysis and automated technical documentation generator.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+      </p>
+    </td>
+  </tr>
+</table>
 
 | Project | Purpose | Technologies |
 |---|---|---|
@@ -115,51 +231,93 @@ I am **Marugani Reddi Sekhar**, a software developer and technology builder focu
 
 ---
 
-## 📊 GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://img.shields.io/github/repos/Reddisekharyadav?style=flat-square&logo=github&label=Public%20repositories&color=1a1b27" alt="Public repositories"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=followers"><img src="https://img.shields.io/github/followers/Reddisekharyadav?style=flat-square&logo=github&label=Followers&color=1a1b27" alt="Followers"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=stars"><img src="https://img.shields.io/github/stars/Reddisekharyadav?style=flat-square&logo=github&label=Stars&color=1a1b27" alt="Stars"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=overview"><img src="https://img.shields.io/github/commit-activity/y/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=git&label=Commits%20this%20year&color=1a1b27" alt="Commits this year"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=overview"><img src="https://img.shields.io/github/last-commit/Reddisekharyadav/Reddisekharyadav?style=flat-square&logo=github&label=Last%20updated&color=1a1b27" alt="Last updated"></a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/Reddisekharyadav?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=Reddisekharyadav&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=00C7B7&icon_color=00C7B7&text_color=9fadc6" height="180" alt="GitHub statistics"></a>
-  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reddisekharyadav&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00C7B7&text_color=9fadc6" height="180" alt="Top languages"></a>
-</div>
+**Frontend & Mobile**
 
-<div align="center">
-  <a href="https://github.com/Reddisekharyadav?tab=overview"><img src="https://streak-stats.demolab.com?user=Reddisekharyadav&hide_border=true&background=00000000&ring=00C7B7&fire=ff9f43&currStreakLabel=00C7B7&sideLabels=9fadc6&dates=9fadc6&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak"></a>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</p>
+
+**AI / ML, Cloud & IoT Hardware**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
 </div>
 
 ---
 
-## 📚 Publications
+## 📊 GitHub Activity
 
-- **Personalized Avatar-Based Fitting for Online Fashion** — IEEE SCIS 2025 / Springer. [Read paper](https://link.springer.com/chapter/10.1007/978-3-032-22914-4_2)
-- **Speech Emotion Recognition Using Hybrid CNN-BiLSTM with Attention** — IEEE IATMSI 2026. [Read paper](https://ieeexplore.ieee.org/document/11466131)
+<div align="center">
+  <a href="https://github.com/Reddisekharyadav?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-42+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=followers"><img src="https://img.shields.io/github/followers/Reddisekharyadav?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=stars"><img src="https://img.shields.io/github/stars/Reddisekharyadav?style=for-the-badge&logo=github&label=Stars&color=181717" alt="Stars"></a>
+  <a href="https://github.com/Reddisekharyadav?tab=overview"><img src="https://img.shields.io/github/last-commit/Reddisekharyadav/Reddisekharyadav?style=for-the-badge&logo=git&label=Profile%20Updated&color=00C7B7" alt="Last updated"></a>
+</div>
 
-## 🛠️ Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,html,css,tailwind&theme=dark" alt="Frontend technologies">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,kotlin,postgres,mysql,mongodb,redis,prisma&theme=dark" alt="Backend technologies">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,git,github,linux,azure,vercel&theme=dark" alt="AI and DevOps technologies">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" alt="Hardware technologies">
-</p>
+<div align="center">
+  <a href="https://github.com/Reddisekharyadav?tab=overview">
+    <img src="https://streak-stats.demolab.com?user=Reddisekharyadav&hide_border=true&background=0D1117&ring=00C7B7&fire=ff9f43&currStreakLabel=00C7B7&sideLabels=9fadc6&dates=9fadc6&currStreakNum=ffffff&sideNums=ffffff" width="65%" alt="GitHub contribution streak">
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Reddisekharyadav">
+    <img src="https://ghchart.rshah.org/00C7B7/Reddisekharyadav" width="92%" alt="Marugani Reddi Sekhar's Contribution Calendar" />
+  </a>
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://instagram.com/reddi9031"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/@MaruganiReddisekhar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="mailto:reddisekharmarugani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br><br>
+<p>
+  <a href="https://myportfolio.sekhar.tech/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/marugani-reddi-sekhar-83644b253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/reddi9031"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://youtube.com/@MaruganiReddisekhar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:reddisekharmarugani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 **Thanks for visiting — let’s build something meaningful.**
 
